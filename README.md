@@ -1,3 +1,7 @@
+# Windows
+```
+pip install fasttext-wheel
+```
 # fastText
 [fastText](https://fasttext.cc/) is a library for efficient learning of word representations and sentence classification.
 
